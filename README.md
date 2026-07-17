@@ -6,7 +6,7 @@ Production-ready Remix template optimized for AI-assisted development and Deploy
 
 Deploy this production-ready template directly to Deployxa Cloud.
 
-[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https%3A%2F%2Fgithub.com%2Fdeployxa-templates%2Fdeployxa-remix&template=remix&framework=nextjs&branch=main&name=deployxa-remix&runtime=Node.js+20&package_manager=npm&build_command=npm+run+build&start_command=npm+run+start&dockerfile=Dockerfile&version=1.0.0&build_time=60s&image_size=240MB&env_vars=NODE_ENV%2CPORT)
+[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https://github.com/deployxa-templates/deployxa-remix)
 
 ### Or deploy using the CLI
 
