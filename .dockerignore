@@ -1,7 +1,4 @@
 node_modules
-build
 .git
 .github
 README.md
-Dockerfile
-docker-compose.yml
